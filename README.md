@@ -48,11 +48,12 @@
 -   Anything valuable.
 
 ***
-Steps for contribution -
+**Steps for contribution -**
 
-    1. Fork this repo
-    2. commit the code
-    3. Make pull request
+    1. Fork this repositary 
+    2. Create a new branch
+    3. Commit the code
+    4. Make pull request from your forked repository
 
 
 ## License 
